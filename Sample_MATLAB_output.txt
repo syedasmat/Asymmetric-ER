@@ -1,0 +1,89 @@
+>> Asym_ER_r0
+
+Step = 1, 	|Branch = 1, Series Caps =  1
+			|Branch = 2, Series Caps =  1
+			|Branch = 3, Series Caps =  1
+			|Branch = 4, Series Caps =  1
+			|Branch = 5, Series Caps =  1
+			|Branch = 6, Series Caps =  1
+
+Step = 2, 	Top_Cap None,   BotL_First_Id =  0, BotR_First_Id = 1
+							No_of_Caps =     1, No_of_Caps =    2
+
+Step = 3, 	Top_Cap None,   BotL_First_Id =  1, BotR_First_Id = 2
+							No_of_Caps =     1, No_of_Caps =    2
+
+Step = 4, 	Top_Cap None,   BotL_First_Id =  2, BotR_First_Id = 3
+							No_of_Caps =     1, No_of_Caps =    2
+
+Step = 5, 	Top_Cap None,   BotL_First_Id =  3, BotR_First_Id = 4
+							No_of_Caps =     1, No_of_Caps =    2
+
+Step = 6, 	|Branch = 1, Series Caps =  2
+			|Branch = 2, Series Caps =  2
+			|Branch = 3, Series Caps =  2
+
+Step = 7, 	Top_Cap_Id = 0, BotL_First_Id =  1, BotR_First_Id = 2
+							No_of_Caps =     1, No_of_Caps =    2
+
+Step = 8, 	Top_Cap_Id = 2, BotL_First_Id =  3, BotR_First_Id = 4
+							No_of_Caps =     1, No_of_Caps =    2
+
+Step = 9, 	|Branch = 1, Series Caps =  3
+			|Branch = 2, Series Caps =  3
+
+Step = 10, 	Top_Cap_Id = 0, BotL_First_Id =  1, BotR_First_Id = 3
+							No_of_Caps =     2, No_of_Caps =    3
+
+Step = 11, 	|Branch = 1, Series Caps =  4
+
+Step = 12, 	|Branch = 1, Series Caps =  5
+
+Step = 13, 	|Branch = 1, Series Caps =  6
+>> Asym_ER_r0
+
+Step = 1, 	|Branch = 1, Series Caps =  2
+			|Branch = 2, Series Caps =  2
+			|Branch = 3, Series Caps =  2
+
+Step = 2, 	Top_Cap_Id = 0, BotL_First_Id =  1, BotR_First_Id = 2
+							No_of_Caps =     1, No_of_Caps =    2
+
+Step = 3, 	Top_Cap_Id = 2, BotL_First_Id =  3, BotR_First_Id = 4
+							No_of_Caps =     1, No_of_Caps =    2
+
+Step = 4, 	|Branch = 1, Series Caps =  3
+			|Branch = 2, Series Caps =  3
+
+Step = 5, 	Top_Cap_Id = 0, BotL_First_Id =  1, BotR_First_Id = 3
+							No_of_Caps =     2, No_of_Caps =    3
+
+Step = 6, 	|Branch = 1, Series Caps =  4
+
+Step = 7, 	|Branch = 1, Series Caps =  5
+
+Step = 8, 	|Branch = 1, Series Caps =  6
+>> Asym_ER_r0
+
+Step = 1, 	|Branch = 1, Series Caps =  2
+			|Branch = 2, Series Caps =  2
+			|Branch = 3, Series Caps =  2
+
+Step = 2, 	Top_Cap_Id = 0, BotL_First_Id =  1, BotR_First_Id = 2
+							No_of_Caps =     1, No_of_Caps =    2
+
+Step = 3, 	Top_Cap_Id = 2, BotL_First_Id =  3, BotR_First_Id = 4
+							No_of_Caps =     1, No_of_Caps =    2
+
+Step = 4, 	|Branch = 1, Series Caps =  3
+			|Branch = 2, Series Caps =  3
+
+Step = 5, 	Top_Cap_Id = 0, BotL_First_Id =  1, BotR_First_Id = 3
+							No_of_Caps =     2, No_of_Caps =    3
+
+Step = 6, 	|Branch = 1, Series Caps =  4
+
+Step = 7, 	|Branch = 1, Series Caps =  5
+
+Step = 8, 	|Branch = 1, Series Caps =  6
+>> 
